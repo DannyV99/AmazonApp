@@ -1,0 +1,24 @@
+{
+  "name": "AmazonApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyV99/AmazonApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyV99/AmazonApp/issues"
+  },
+  "homepage": "https://github.com/DannyV99/AmazonApp#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
